@@ -1,4 +1,4 @@
-# Hi, I am Joaquín Ponte 👋
+# Hi, I am Joaquín Ponte
 
 Enterprise Solution Architect with solid hands-on experience in Java, Spring Framework, and multiple integration platforms. Currently involved in projects of modernization of legacy monolithic applications to microservices and cloud architectures. 
 
